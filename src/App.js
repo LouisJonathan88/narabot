@@ -34,7 +34,7 @@ function App() {
         marginTop: 'auto',
         borderTop: '1px solid #eee'
       }}>
-        © {new Date().getFullYear()} narabot - nabilah shafa nur sofyani
+        © {new Date().getFullYear()} narabot - nabilah shafa 
       </footer>
     </div>
   );
